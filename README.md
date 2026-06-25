@@ -1,5 +1,6 @@
+<div align="center">
 <img align="center" width="350" height="200" alt="image" src="https://media1.tenor.com/m/ZN29QILcbAQAAAAd/cat-pc.gif" />
-
+</div>
 
 
 <h1 align="center">👋 Hi, I'm Faris Abdul Sukkur</h1>
