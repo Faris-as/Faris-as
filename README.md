@@ -15,7 +15,7 @@
 ### 🧠 About Me
 
 🎓 Bachelor's in Artificial Intelligence & Data Science (MESCE)  
-💼 Data Scientist Intern @ Future Optima IT Solutions Pvt Ltd  
+💼 AI Engineer @ ILMORA Pvt Ltd.  
 🚀 Passionate about solving real-world problems with AI, Computer Vision, and NLP  
 📚 Exploring LLMs, LangChain, RAG, Generative AI, and Deep Learning  
 💡 Strong focus on AI-powered automation, search systems & intelligent assistants
@@ -26,7 +26,7 @@
 
 ```bash
 Languages:    Python · SQL · R (basic)
-Frameworks:   TensorFlow · PyTorch · Scikit-learn · LangChain
+Frameworks:   TensorFlow · PyTorch · Scikit-learn · LangChain · LangGraph · LLM Integration 
 Libraries:    OpenCV · Transformers (HF) · EasyOCR · Pandas · NumPy
 Tools:        Streamlit · MLflow · Docker · Git · VS Code
 Databases:    PostgreSQL · PgVector · SQLite
