@@ -6,9 +6,14 @@
 
 <h1 align="center">Sir Faris of the Realm</h1>
 
-<!-- فارس -->
+<div align="center">
+  <h3 dir="rtl" lang="ar">فارس</h3>
+</div>
+
+<!-- The Arabic word is rendered as real HTML text (browsers shape RTL correctly);
+     the typing SVG below uses Latin text since it cannot shape Arabic. -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=F0C541&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=90&lines=%E2%80%9CFaris%22+(%D9%81%D8%A7%D8%B1%D8%B3)+means+KNIGHT+in+Arabic.;AI+Engineer+forging+intelligent+systems+%E2%9A%94;Squire+of+the+Citadel+of+42+Abu+Dhabi+%F0%9F%8F%B0;Computer+Vision+%C2%B7+LLMs+%C2%B7+Deep+Learning+%F0%9F%94%A5;Fluent+in+Python%2C+and+the+old+tongue+of+C" alt="Typing: Faris means Knight in Arabic — AI Engineer — 42 Abu Dhabi — CV, LLMs, Deep Learning — Python and C"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=F0C541&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=90&lines=%22Faris%22+means+KNIGHT+in+Arabic.;AI+Engineer+forging+intelligent+systems+%E2%9A%94;Squire+of+the+Citadel+of+42+Abu+Dhabi+%F0%9F%8F%B0;Computer+Vision+%C2%B7+LLMs+%C2%B7+Deep+Learning+%F0%9F%94%A5;Fluent+in+Python%2C+and+the+old+tongue+of+C" alt="Typing: Faris means Knight in Arabic — AI Engineer — 42 Abu Dhabi — CV, LLMs, Deep Learning — Python and C"/>
 </p>
 
 <div align="center">
